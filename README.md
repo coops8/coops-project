@@ -1,1 +1,1 @@
-# Coops OS project
+# CoopsOS
