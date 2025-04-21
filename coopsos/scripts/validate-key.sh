@@ -1,5 +1,5 @@
 #!/bin/bash
-VALID_KEY="coops-rom123654"
+source .env  # Load environment variables from .env file
 read -p "Enter Developer Key: " entered
 if [[ "$entered" == "$VALID_KEY" ]]; then
   echo "Key accepted. Access granted."

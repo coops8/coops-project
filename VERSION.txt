@@ -1,1 +1,3 @@
-Welcome to CoopsOS: Infinity-Alpha-1.0
+CoopsOS Infinity-Alpha-1.0
+Build Code: INFINITY-001A
+Version Format: Infinity-[Release Type]-[Version #]
