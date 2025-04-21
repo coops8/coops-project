@@ -1,0 +1,6 @@
+{
+  "max_attempts": 10,
+  "lock_duration": "1d",
+  "alert_email": "pedersentablets@gmail.com",
+  "reset_button": true
+}

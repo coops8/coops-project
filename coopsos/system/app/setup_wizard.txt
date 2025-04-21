@@ -1,0 +1,4 @@
+Welcome to CoopsOS!
+- Connect to WiFi
+- Sign in to CoopsGPT or skip
+- Set device name
