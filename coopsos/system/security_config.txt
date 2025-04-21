@@ -1,0 +1,4 @@
+# CoopsOS Security Config
+Developer Mode=Disabled
+Root Access=Denied
+FRP Lock=Enabled

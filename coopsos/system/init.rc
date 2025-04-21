@@ -1,0 +1,5 @@
+#!/system/bin/sh
+export PATH=/system/bin:/system/xbin
+echo "Initializing CoopsOS..."
+mount -o rw,remount /system
+start coopsos

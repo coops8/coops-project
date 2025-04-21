@@ -1,0 +1,4 @@
+# CoopsOS Bootloader Configuration
+Boot Mode=Custom
+Recovery Mode=Enabled
+Safe Mode=Disabled
