@@ -1,0 +1,19 @@
+<bootloader_ui>
+    <background>
+        <color>#002244</color>
+        <image src="file:///system/media/bootloader_anim/hologram_bg.png"/>
+    </background>
+
+    <elements>
+        <button name="PowerSaveMode" color="#00FF00" action="setPowerSave()"/>
+        <button name="GameMode" color="#FF9900" action="setGameMode()"/>
+        <button name="FastMode" color="#FF0000" action="setFastMode()"/>
+        <button name="EasterEggMode" color="#33CCFF" action="setEasterEggMode()"/>
+        <button name="BootMode" color="#FFFFFF" action="setBootMode()"/>
+    </elements>
+
+    <animation>
+        <zoom-in effect="pulse" duration="5000" />
+        <color-transition from="cyan" to="black" duration="3000"/>
+    </animation>
+</bootloader_ui>
